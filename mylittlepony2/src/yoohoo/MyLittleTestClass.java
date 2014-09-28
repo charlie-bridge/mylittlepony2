@@ -1,4 +1,4 @@
-package mylittlepony2;
+package yoohoo;
 
 public class MyLittleTestClass {
 
